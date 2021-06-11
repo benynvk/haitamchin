@@ -1,0 +1,98 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://haitamchin.vn
+Data file = /var/www/vhosts/haitamchin.vn/httpdocs/wp-content/themes/impose/admin/demo-data/content.xml
+Widget file = /var/www/vhosts/haitamchin.vn/httpdocs/wp-content/themes/impose/admin/demo-data/widgets.wie
+Customizer file = /var/www/vhosts/haitamchin.vn/httpdocs/wp-content/themes/impose/admin/demo-data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Văn bản - About Me - Imported
+Văn bản - Follow Me - Imported
+Mailchimp Sign-Up Form - SUBSCRIBE TO NEWSLETTER - Imported
+Popular Posts [Top 10] - TRENDING POSTS - Imported
+Chuyên mục - CATEGORIES - Imported
+Văn bản - No Title - Imported
+Văn bản - Facebook - Imported
+
+Header Social Icons : 
+
+Văn bản - Header Social Media Profiles - Imported
+
+Footer Social Icons : 
+
+Văn bản - Footer Social Media Profiles - Imported
+
+Footer Instagram : 
+
+null-instagram-feed - Instagram - Site does not support widget
+
+Footer Copyright Text : 
+
+Văn bản - Trademark Info - Imported
+
+Author Social Icons : 
+
+Văn bản - Author Social Media Profiles - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
